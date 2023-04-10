@@ -84,11 +84,13 @@
 - [西红柿炒鸡蛋](./dishes/vegetable_dish/西红柿炒鸡蛋.md)
 - [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
+- [小炒藕丁](./dishes/vegetable_dish/小炒藕丁/小炒藕丁.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
 
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+- [带把肘子](./dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](./dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [番茄红酱](./dishes/meat_dish/番茄红酱.md)
 - [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
@@ -109,6 +111,7 @@
 - [酱牛肉](./dishes/meat_dish/酱牛肉/酱牛肉.md)
 - [酱排骨](./dishes/meat_dish/酱排骨/酱排骨.md)
 - [咖喱肥牛](./dishes/meat_dish/咖喱肥牛/咖喱肥牛.md)
+- [烤鸡翅](./dishes/meat_dish/烤鸡翅.md)
 - [可乐鸡翅](./dishes/meat_dish/可乐鸡翅.md)
 - [口水鸡](./dishes/meat_dish/口水鸡/口水鸡.md)
 - [辣椒炒肉](./dishes/meat_dish/辣椒炒肉.md)
@@ -121,6 +124,10 @@
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
+- [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
+- [杀猪菜](./dishes/meat_dish/杀猪菜.md)
+- [山西过油肉](./dishes/meat_dish/山西过油肉.md)
+- [商芝肉](./dishes/meat_dish/商芝肉.md)
 - [瘦肉土豆片](./dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md)
 - [水煮牛肉](./dishes/meat_dish/水煮牛肉/水煮牛肉.md)
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
@@ -144,6 +151,7 @@
 - [血浆鸭](./dishes/meat_dish/血浆鸭/血浆鸭.md)
 - [羊排焖面](./dishes/meat_dish/羊排焖面/羊排焖面.md)
 - [洋葱炒猪肉](./dishes/meat_dish/洋葱炒猪肉.md)
+- [意式烤鸡](./dishes/meat_dish/意式烤鸡.md)
 - [鱼香茄子](./dishes/meat_dish/鱼香茄子/鱼香茄子.md)
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
@@ -180,6 +188,7 @@
 ### 早餐
 
 - [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
+- [蛋煎糍粑](./dishes/breakfast/蛋煎糍粑.md)
 - [桂圆红枣粥](./dishes/breakfast/桂圆红枣粥.md)
 - [鸡蛋三明治](./dishes/breakfast/鸡蛋三明治.md)
 - [煎饺](./dishes/breakfast/煎饺.md)
@@ -209,6 +218,7 @@
 - [豆角焖面](./dishes/staple/豆角焖面/豆角焖面.md)
 - [韩式拌饭](./dishes/staple/韩式拌饭/韩式拌饭.md)
 - [河南蒸面条](./dishes/staple/河南蒸面条/河南蒸面条.md)
+- [火腿饭团](./dishes/staple/火腿饭团/火腿饭团.md)
 - [基础牛奶面包](./dishes/staple/基础牛奶面包/基础牛奶面包.md)
 - [茄子肉煎饼](./dishes/staple/茄子肉煎饼/茄子肉煎饼.md)
 - [鲣鱼海苔玉米饭](./dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md)
@@ -226,7 +236,7 @@
 - [披萨饼皮](./dishes/staple/披萨饼皮/披萨饼皮.md)
 - [热干面](./dishes/staple/热干面.md)
 - [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
-- [烧饼](./dishes/staple/烧饼/烧饼.md)
+- [芝麻烧饼](./dishes/staple/烧饼/芝麻烧饼.md)
 - [手工水饺](./dishes/staple/手工水饺.md)
 - [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
@@ -254,6 +264,7 @@
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [金针菇汤](./dishes/soup/金针菇汤.md)
 - [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
@@ -264,6 +275,7 @@
 - [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
 - [小米粥](./dishes/soup/小米粥.md)
 - [银耳莲子粥](./dishes/soup/银耳莲子粥/银耳莲子粥.md)
+- [玉米排骨汤](./dishes/soup/玉米排骨汤/玉米排骨汤.md)
 - [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
@@ -300,6 +312,7 @@
 - [奥利奥冰淇淋](./dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md)
 - [草莓冰淇淋](./dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
 - [反沙芋头](./dishes/dessert/反沙芋头/反沙芋头.md)
+- [咖啡椰奶冻](./dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md)
 - [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
